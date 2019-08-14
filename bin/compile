@@ -1,1 +1,2 @@
+mkdir -p $1/vendor/bin
 curl -L -o $1/vendor/bin/sentry-cli https://downloads.sentry-cdn.com/sentry-cli/1.47.1/sentry-cli-Linux-x86_64
